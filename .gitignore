@@ -1,0 +1,14 @@
+
+#Ignore virtual environment
+venv
+
+#Ignore .gitignore
+.gitignore
+
+#Ignore passphrase files
+/secured_email/passphrase.json
+
+#Ignore .idea
+.idea
+
+__pycache__
